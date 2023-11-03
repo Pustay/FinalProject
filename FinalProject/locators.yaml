@@ -1,0 +1,16 @@
+xpath:
+    input_username: //*[@id="login"]/div[1]/label/input
+ 
+    input_passwd: //*[@id="login"]/div[2]/label/input
+    
+    auth_user: //*[@id="app"]/main/nav/ul/li[3]/a
+
+    header: /html/body/div[1]/main/div/div/h1
+
+
+
+
+css:
+    btn_selector: button
+    about_btn: li.svelte-1rc85o5:nth-child(1) > a:nth-child(1)
+
